@@ -5,4 +5,4 @@ This app is a scientific calculator and is created for students and teachers. Th
 
 This app will ask you to input the number for the operation or function you want to perform and then ask you to input your value and then it will output your answer.
 
- https://repl.it/@brandon125/FinalApp
+ https://repl.it/@brandon125/FinalApp 
